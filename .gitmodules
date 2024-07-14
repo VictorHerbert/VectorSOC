@@ -1,0 +1,6 @@
+[submodule "rtl/picorv32"]
+	path = rtl/picorv32
+	url = https://github.com/YosysHQ/picorv32
+[submodule "rtl/modules"]
+	path = rtl/modules
+	url = https://github.com/VictorHerbert/DigitalCores
