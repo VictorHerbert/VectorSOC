@@ -1,0 +1,6 @@
+[submodule "rtl/modules/VGA"]
+	path = rtl/modules/VGA
+	url = https://github.com/VictorHerbert/VGA
+[submodule "rtl/modules/picorv32"]
+	path = rtl/modules/picorv32
+	url = https://github.com/YosysHQ/picorv32
